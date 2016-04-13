@@ -30,13 +30,13 @@ plt.ylabel('cos(x)')
 
 # Create subplot 3
 plt.subplot(2, 2, 3)
-plt.plot(x, y3, 'ko-')
+plt.plot(x, y3, 'bo-')
 plt.xlabel('angle [rad.]')
 plt.ylabel('sin(x^2)')
 
 # Create subplot 4
 plt.subplot(2, 2, 4)
-plt.plot(x, y4, 'ko-')
+plt.plot(x, y4, 'go-')
 plt.xlabel('angle [rad.]')
 plt.ylabel('cos(x^2)')
 
