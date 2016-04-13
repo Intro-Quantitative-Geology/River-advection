@@ -12,6 +12,8 @@ import numpy as np
 x = np.linspace(0,2*np.pi,101)
 y1 = np.sin(x)
 y2 = np.cos(x)
+y3 = np.cos(x**2)
+y4 = np.cos(x**2)
 
 # Create subplot 1
 plt.subplot(2, 1, 1)
@@ -25,6 +27,18 @@ plt.subplot(2, 1, 2)
 plt.plot(x, y2, 'ko-')
 plt.xlabel('angle [rad.]')
 plt.ylabel('cos(x)')
+
+# Create subplot 3
+plt.subplot(2, 1, 2)
+plt.plot(x, y3, 'ko-')
+plt.xlabel('angle [rad.]')
+plt.ylabel('sin(x^2)')
+
+# Create subplot 4
+plt.subplot(2, 1, 2)
+plt.plot(x, y4, 'ko-')
+plt.xlabel('angle [rad.]')
+plt.ylabel('cos(x^2)')
 
 # Display plot
 plt.show()
