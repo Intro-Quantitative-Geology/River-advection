@@ -2,8 +2,8 @@
 In the exercise for this week we will explore the stream power river erosion equation. The stream power equation is basically a form of advection equation with a spatially variable set of constants.
 
 ## Components
-1. [Better plotting in Spyder](https://github.com/Intro-Quantitative-Geology/Hillslope-diffusion/blob/master/Fixing-Spyder.md)
-2. [Laboratory exercise 4]()
+1. [Better plotting in Spyder](https://github.com/Intro-Quantitative-Geology/Hillslope-diffusion/blob/master/Fixing-Spyder.md) (if you have not already done this)
+2. [Laboratory exercise 4](https://classroom.github.com/assignment-invitations/6b79b035fa213c80d191563081c9bd5a)
 
 ## Resources
 - Past exercise materials
