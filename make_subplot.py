@@ -12,7 +12,7 @@ import numpy as np
 x = np.linspace(0,2*np.pi,101)
 y1 = np.sin(x)
 y2 = np.cos(x)
-y3 = np.cos(x**2)
+y3 = np.sin(x**2)
 y4 = np.cos(x**2)
 
 # Create subplot 1
