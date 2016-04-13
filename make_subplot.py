@@ -20,7 +20,7 @@ plt.subplot(2, 2, 1)
 plt.plot(x, y1, 'ro-')
 plt.xlabel('angle [rad.]')
 plt.ylabel('sin(x)')
-plt.title('Example of two subplots')
+plt.title('Example of four subplots')
 
 # Create subplot 2
 plt.subplot(2, 2, 2)
