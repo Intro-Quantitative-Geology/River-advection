@@ -3,7 +3,7 @@ In the exercise for this week we will explore the stream power river erosion equ
 
 ## Components
 1. [Better plotting in Spyder](https://github.com/Intro-Quantitative-Geology/Hillslope-diffusion/blob/master/Fixing-Spyder.md) (if you have not already done this)
-2. [Laboratory exercise 4](https://classroom.github.com/assignment-invitations/6b79b035fa213c80d191563081c9bd5a)
+2. [Laboratory exercise 4](https://github.com/Intro-Quantitative-Geology/Lab-exercise-4)
 
 ## Resources
 - Past exercise materials
